@@ -5,7 +5,10 @@
 
 <p align="center">
     <Strong>🍀SNS🍀</Strong><br><br>
-    <a href="https://www.instagram.com/fromssuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://latelearner.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
+<a href="https://complete-bison-5aa.notion.site/c0b88536f973409f9b7f1c654e09a3e2" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://github.com/Kimseungsuu" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
+<a href="https://www.instagram.com/fromssuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
    
 <br>
 <br>
