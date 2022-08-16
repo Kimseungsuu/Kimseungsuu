@@ -6,9 +6,9 @@
 <p align="center">
     <Strong>🍀SNS🍀</Strong><br><br>
     <a href="https://www.instagram.com/fromssuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
+   
+<br>
+<br>
 <Strong>📧Email📧</Strong><br>tmdtn0680@naver.com<br>
 </p>
 
@@ -32,9 +32,27 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+
+<br>
+<br>
+
+<p align="center">
+  <Strong>🐬 Cowork Tools 🐬</Strong><br>
+</p>
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  </p>
+  
 <br>
 <br>
 
 <div align=center>
 
 ![Kimsunsu github stats](https://github-readme-stats.vercel.app/api?username=kimseungsuu&show_icons=true)
+
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimseungsuu&count_bg=%2371FF62&title_bg=%23171717&icon=github.svg %23FFFFFF&title=Hits&edge_flat=false)](https://github.com/Kimseungsuu)
+</div>
