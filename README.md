@@ -10,11 +10,10 @@
 <a href="https://github.com/Kimseungsuu" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/fromssuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
    
-<br>
-<br>
-<Strong>📧Email📧</Strong><br>tmdtn0680@naver.com<br>
+<p align="center">
+📧 E-mail : tmdtn0680@naver.com 
 </p>
-
+<br>
 <br>
 
 <p align="center">
