@@ -53,6 +53,6 @@
 
 ![Kimsunsu github stats](https://github-readme-stats.vercel.app/api?username=kimseungsuu&show_icons=true)
 
-<div align=center>
+<!-- Hit -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimseungsuu&count_bg=%2371FF62&title_bg=%23171717&icon=github.svg %23FFFFFF&title=Hits&edge_flat=false)](https://github.com/Kimseungsuu)
 </div>
