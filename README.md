@@ -4,14 +4,14 @@
 
 
 <p align="center">
-    <Strong>🍀SNS🍀</Strong><br><br>
+    <Strong> sɴs </Strong><br><br>
 <a href="https://latelearner.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
 <a href="https://complete-bison-5aa.notion.site/c0b88536f973409f9b7f1c654e09a3e2" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/Kimseungsuu" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/fromssuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
    
 <p align="center">
-📧 E-mail : tmdtn0680@naver.com 
+📧 ᴇ-ᴍᴀɪʟ : ᴛᴍᴅᴛɴ𝟶𝟼𝟾𝟶@ɴᴀᴠᴇʀ.ᴄᴏᴍ
 </p>
 <br>
 <br>
@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong> ᴛᴇᴄʜ sᴛᴀᴄᴋ </Strong><br>
 </p>
 
 <p align="center" display="inline-block">
@@ -35,11 +35,8 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<br>
-<br>
-
 <p align="center">
-  <Strong>🐬 Cowork Tools 🐬</Strong><br>
+  <Strong> ᴄᴏᴡᴏʀᴋ ᴛᴏᴏʟs </Strong><br>
 </p>
   
 <p align="center">
