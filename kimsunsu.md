@@ -1,6 +1,5 @@
 ![header](https://user-images.githubusercontent.com/107012988/184840386-dfaa1ac9-a3c0-4b41-94f9-68f5502ce3da.png)
 
-
 <br>
 
 <p align="center">
@@ -37,4 +36,4 @@
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![Kimsunsu github stats](https://github-readme-stats.vercel.app/api?username=kimseungsuu&show_icons=true)
